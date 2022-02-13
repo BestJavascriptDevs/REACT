@@ -1,0 +1,13 @@
+.CounterControl{
+    width: 150px;
+    background-color: #fa923f;
+    color:'white';
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 16px;
+    border: 1px solid #eee;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+}

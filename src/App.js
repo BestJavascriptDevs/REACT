@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import Counter from './containers/Counter/Counter';
 
 class App extends Component {
   state = {  } 
   render() { 
-    return (<div></div>);
+    return (<div>
+      <Counter/>
+    </div>);
   }
 }
  
